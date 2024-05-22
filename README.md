@@ -5,22 +5,53 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojmadduri" alt="manojmadduri" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced techniques in React.js, Kafka and microservices architecture**
+## 🚀 What I'm Currently Working On
 
-- 👨‍💻 All of my projects are available at [https://manojmadduri.github.io/Portfolio.github.io/](https://manojmadduri.github.io/Portfolio.github.io/)
+I am currently working on several projects, including:
+- **An Online Bookstore** using Java Spring Boot for back-end and React.js for front-end, implementing advanced features like recommendation systems and real-time notifications.
+- **Microservices Architecture** for various applications to enhance scalability and maintainability.
+- **Cloud Infrastructure Optimization** with AWS services to improve application performance and reduce costs.
+
+## 🤝 Looking to Collaborate On
+
+I am looking to collaborate on:
+- **Open Source Projects** related to full stack development, especially those involving Java, Spring Boot, and React.js.
+- **Innovative Web Applications** that require scalable and high-performance backend architectures.
+- **Cloud-based Solutions** utilizing AWS or Azure to leverage cloud technologies for enhanced application delivery.
+
+## 🙋‍♂️ Looking for Help With
+
+I am looking for help with:
+- **Advanced Kubernetes Configurations** to optimize deployment strategies for complex applications.
+- **Cutting-edge Front-end Technologies** to keep up with the latest trends and improve user experience.
+- **Performance Tuning** for large-scale applications to handle high concurrency and data processing efficiently.
+
+Feel free to reach out if you have similar interests or need collaboration on exciting projects. Let's build something amazing together!
+
+---
+
+- 🌱 I’m currently learning **Advanced techniques in React.js, Kafka and microservices architecture**
 
 - 💬 Ask me about **React, Spring Boot, RESTful API , SQL , AWS**
 
-- 📫 How to reach me **manoj@mymailsbox.net**
+- ⚡ Fun fact **I think I am funny**
+
+## 📫 **Contact:**  
+- Email: [manoj@mymailsbox.net](mailto:manoj@mymailsbox.net)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile-link)
+- Location: Duluth, GA
+
+- 👨‍💻 All of my projects are available at [https://manojmadduri.github.io/Portfolio.github.io/](https://manojmadduri.github.io/Portfolio.github.io/)
 
 - 📄 Know about my experiences [https://manojmadduri.github.io/Resume/Manoj_Resume.pdf](https://manojmadduri.github.io/Resume/Manoj_Resume.pdf)
 
-- ⚡ Fun fact **I think I am funny**
+    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/manojmadduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manojmadduri" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/manojmadduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manojmadduri" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/manoj-11122a118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-11122a118/" height="30" width="40" /></a>
+<a href="https://twitter.com/manojkakashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manojkakashi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +62,89 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojmadduri&show_icons=true&locale=en" alt="manojmadduri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojmadduri&" alt="manojmadduri" /></p>
+
+
+# 👋 Hi, I'm Manoj Madduri
+
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+
+## 🌟 About Me
+
+I am a results-oriented Full Stack Developer with over 5 years of experience in building scalable, high-performance server-side applications. I have a strong background in Java programming, the Spring Framework, and Hibernate for seamless data integration. I excel in developing RESTful APIs, implementing microservices architecture, Docker, Cloud Services, and optimizing application performance for high concurrency.
+
+📫 **Contact:**  
+- Email: [manoj@mymailsbox.net](mailto:manoj@mymailsbox.net)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile-link)
+- Location: Duluth, GA
+
+## 🛠️ Skills
+
+**Front-end Technologies:**
+- HTML5, CSS3, JavaScript
+- React.js, Angular
+- Bootstrap, jQuery, AJAX, Redux
+
+**Backend Technologies:**
+- Java, Spring Boot, Hibernate
+- Node.js, Express.js
+- MVC Framework, SOAP, RESTful APIs
+- Maven, Micro-services, Spring Data, JDBC, JPA, Python
+
+**Database:**
+- MySQL, MongoDB, PostgreSQL, SQL Server, Oracle, Firebase, Cassandra
+
+**Tools and Technologies:**
+- Git, Docker, Kubernetes
+- Apache, Microsoft Azure
+- CI/CD, JUnit, Mockito
+- Swagger, Postman
+- Jenkins, Jira, Gradle, Jest, Selenium
+- Agile, Scrum
+- Amazon Web Services (EC2, AMI, IAM, ELB, Auto scaling, SNS)
+
+## 🏢 Professional Experience
+
+### Full-Stack Developer, Capgemini
+*Remote, USA | 01/2023 – Present*
+
+- Architected a robust, scalable, and maintainable web application utilizing advanced MongoDB database schema design.
+- Implemented AWS cloud services (EC2, RDS, S3, CloudWatch, IAM).
+- Developed a Java Spring Boot application for an Online Bookstore, integrating complex business logic.
+- Utilized microservices architecture for easier maintenance and scalability.
+- Managed Docker containerization and CI/CD pipelines via Jenkins.
+- Implemented unit and integration testing using JUnit.
+
+### Full-Stack Developer, Genpact
+*Hyderabad, India | 01/2021 – 07/2021*
+
+- Created a high-performance e-commerce platform with efficient MySQL database schema.
+- Developed responsive user interfaces using HTML, CSS, jQuery, and modern JavaScript frameworks.
+- Developed RESTful APIs with Java and Spring, integrated Bootstrap for front-end.
+- Implemented Azure Cloud Services for scalable infrastructure management.
+- Utilized Docker for containerization and Jenkins for CI/CD pipelines.
+
+### Software Developer, Keus Automation
+*Hyderabad, India | 01/2018 – 01/2021*
+
+- Developed enterprise-grade applications, ensuring seamless user experiences and robust functionality.
+- Conducted comprehensive code reviews and troubleshooting.
+- Utilized HTML, CSS, Bootstrap, React, Redux, and JavaScript for user interfaces.
+- Managed database operations on Oracle.
+- Integrated emerging technologies like React and Redux.
+- Practiced advanced version control and server-side scripting with PHP.
+
+## 🎓 Education
+
+- **Master Degree, Computer Information Systems**  
+  Christian Brothers University, Memphis, USA  
+  08/2021 – 12/2022
+
+- **Bachelor of Technology, Electrical and Electronics Engineering**  
+  NRI Institute of Technology, Guntur, India  
+  05/2014 – 09/2017
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
