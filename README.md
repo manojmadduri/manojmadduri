@@ -28,13 +28,14 @@ I am looking for help with:
 
 Feel free to reach out if you have similar interests or need collaboration on exciting projects. Let's build something amazing together!
 
----
 
 - 🌱 I’m currently learning **Advanced techniques in Kotlin, Kafka and microservices architecture**
 
 - 💬 Ask me about **React, Spring Boot, RESTful API , SQL , AWS**
 
 - ⚡ Fun fact **I think I am funny**
+
+  ---
 
 ## 📫 **Contact:**  
 - Email: [manoj@mymailsbox.net](mailto:manoj@mymailsbox.net)
