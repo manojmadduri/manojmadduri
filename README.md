@@ -30,7 +30,7 @@ Feel free to reach out if you have similar interests or need collaboration on ex
 
 ---
 
-- 🌱 I’m currently learning **Advanced techniques in React.js, Kafka and microservices architecture**
+- 🌱 I’m currently learning **Advanced techniques in Kotlin, Kafka and microservices architecture**
 
 - 💬 Ask me about **React, Spring Boot, RESTful API , SQL , AWS**
 
