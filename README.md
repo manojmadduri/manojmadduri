@@ -58,7 +58,7 @@ Feel free to reach out if you have similar interests or need collaboration on ex
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojmadduri&show_icons=true&locale=en&langs_count=7&layout=compact" alt="manojmadduri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojmadduri&show_icons=true&locale=en" alt="manojmadduri" /></p
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojmadduri&show_icons=true&locale=en" alt="manojmadduri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojmadduri&" alt="manojmadduri" /></p>
 
