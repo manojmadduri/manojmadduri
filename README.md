@@ -38,7 +38,7 @@ Feel free to reach out if you have similar interests or need collaboration on ex
   ---
 
 ## 📫 **Contact:**  
-- Email: [manoj@mymailsbox.net](mailto:manoj@mymailsbox.net)
+- Email: [manoj@mymailsbox.net](mailto:mmadduri838@gmail.com)
 
 - 👨‍💻 All of my projects are available at [https://manojmadduri.github.io/Portfolio.github.io/](https://manojmadduri.github.io/Portfolio.github.io/)
 
