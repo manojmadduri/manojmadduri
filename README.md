@@ -8,28 +8,34 @@
 ## 🚀 What I'm Currently Working On
 
 I am currently working on several projects, including:
-- **An Online Bookstore** using Java Spring Boot for back-end and React.js for front-end, implementing advanced features like recommendation systems and real-time notifications.
-- **Microservices Architecture** for various applications to enhance scalability and maintainability.
-- **Cloud Infrastructure Optimization** with AWS services to improve application performance and reduce costs.
+- **Real-Time Financial Data Streaming Platform:** Leveraging Apache Kafka and Spring Boot to process high-volume real-time data streams efficiently.
+- **Modern E-Commerce Platform:** Enhancing an online bookstore application with Java Spring Boot for the backend and React.js for the frontend, implementing advanced features like recommendation systems and real-time notifications.
+- **Cloud Infrastructure Optimization:** Optimizing AWS services like EC2, ECS, and S3 to improve application performance, scalability, and cost efficiency.
 
 ## 🤝 Looking to Collaborate On
 
 I am looking to collaborate on:
 - **Open Source Projects** related to full stack development, especially those involving Java, Spring Boot, and React.js.
-- **Innovative Web Applications** that require scalable and high-performance backend architectures.
-- **Cloud-based Solutions** utilizing AWS or Azure to leverage cloud technologies for enhanced application delivery.
+- **Microservices Architecture Projects** requiring expertise in distributed systems, REST APIs, and Kafka-based messaging solutions.
+- **Cloud-Native Solutions** utilizing AWS or Kubernetes to deliver scalable, secure, and high-performance applications.
 
 ## 🙋‍♂️ Looking for Help With
 
 I am looking for help with:
-- **Advanced Kubernetes Configurations** to optimize deployment strategies for complex applications.
-- **Cutting-edge Front-end Technologies** to keep up with the latest trends and improve user experience.
-- **Performance Tuning** for large-scale applications to handle high concurrency and data processing efficiently.
+- **AI-Powered Solutions:** Exploring practical applications of machine learning and AI frameworks like TensorFlow to enhance user experiences.
+- **Advanced Kubernetes Configurations:** Optimizing deployment strategies and scaling complex applications.
+- **Performance Tuning:** Improving the efficiency of large-scale systems to handle high concurrency and data throughput.
 
 
-🌱 I’m currently learning **Advanced techniques in Kotlin, Kafka and microservices architecture**
+🌱 I’m currently learning 
 
-💬 Ask me about **React, Spring Boot, RESTful API , SQL , AWS**
+- **Artificial Intelligence and Machine Learning:** Developing AI-powered solutions and exploring tools like PyTorch and TensorFlow.
+- **Advanced Kubernetes Configurations:** Diving deeper into auto-scaling, service mesh, and deployment optimization techniques.
+- **Serverless Computing:** Mastering AWS Lambda and Fargate for scalable and cost-effective architectures.
+- **GraphQL APIs:** Building flexible, efficient APIs to optimize data fetching and enhance developer experience.
+
+
+💬 Ask me about **React, Angular, Spring Boot, RESTful API , SQL and NoSQL Databases: , AWS and Cloud Solutions:*
 
 ⚡ Fun fact **I think I am funny**
 
@@ -38,18 +44,18 @@ Feel free to reach out if you have similar interests or need collaboration on ex
   ---
 
 ## 📫 **Contact:**  
-- Email: [mmadduri838@gmail.xom](mailto:mmadduri838@gmail.com)
+- Email: [manojmadduri835@gmail.com](mailto:manojmadduri835@gmail.com)
 
 - 👨‍💻 All of my projects are available at [https://manojmadduri.github.io/Portfolio.github.io/](https://manojmadduri.github.io/Portfolio.github.io/)
 
-- 📄 Know about my experiences [https://manojmadduri.github.io/Resume/Manoj_Resume.pdf](https://manojmadduri.github.io/Resume/Manoj_Resume.pdf)
+- 📄 Know about my experiences [https://manojmadduri.github.io/Resume/Manoj_Resume.pdf](https://manojmadduri.github.io/Resume/Manoj_FSJD_Resume.docx)
 
     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://codepen.io/manojmadduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manojmadduri" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/manoj-11122a118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-11122a118/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manoj-m263833/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=manoj-m263833/" height="30" width="40" /></a>
 <a href="https://twitter.com/manojkakashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manojkakashi" height="30" width="40" /></a>
 </p>
 
