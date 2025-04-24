@@ -44,9 +44,9 @@ Feel free to reach out if you have similar interests or need collaboration on ex
   ---
 
 ## 📫 **Contact:**  
-- Email: [manojmadduri835@gmail.com](mailto:manojmadduri835@gmail.com)
+- Email: [mmanoj.fall2021@gmail.com](mailto:mmanoj.fall2021@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://manojmadduri.github.io/Portfolio.github.io/](https://manojmadduri.github.io/Portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://manojmadduri.github.io/Portfolio.github.io/](https://manojmadduri.github.io/Portfolio.github.i/)
 
 - 📄 Know about my experiences [https://manojmadduri.github.io/Resume/Manoj_Resume.pdf](https://manojmadduri.github.io/Resume/Manoj_FSJD_Resume.docx)
 
