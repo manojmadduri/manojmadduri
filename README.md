@@ -55,7 +55,7 @@ Feel free to reach out if you have similar interests or need collaboration on ex
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://codepen.io/manojmadduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manojmadduri" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/manoj-m263833/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=manoj-m263833/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manoj-m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=manoj-m263833/" height="30" width="40" /></a>
 <a href="https://twitter.com/manojkakashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manojkakashi" height="30" width="40" /></a>
 </p>
 
