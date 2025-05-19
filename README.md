@@ -48,7 +48,7 @@ I'm an experienced Full-Stack Developer now transitioning to the field of Artifi
 ### 💹 Stock & Crypto Discord Bot
 - A real-time financial assistant bot providing live stock and cryptocurrency tracking.
 - Technologies: **Node.js, Discord.js, MongoDB, API Integrations**
-- GitHub: [Stock & Crypto Discord Bot Repository](https://github.com/manojmadduri/Stock-Crypto-Discord-Bot)
+- GitHub: [Stock & Crypto Discord Bot Repository](https://github.com/manojmadduri/financial-bot-project)
 
 ### 📊 Real-Time Financial Data Streaming Platform
 - A scalable platform for real-time data processing using Apache Kafka and Spring Boot.
