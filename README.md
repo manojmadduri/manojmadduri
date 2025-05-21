@@ -45,6 +45,11 @@ I'm an experienced Full-Stack Developer now transitioning to the field of Artifi
 - Technologies: **Python, React, SQLite, SentenceTransformer, CLIP, Face Recognition**
 - GitHub: [AI Memory Clone Repository](https://github.com/manojmadduri/AI-Memory-Clone)
 
+### 💹 Smart Data Processor(txt to jsnol)
+- Turn your text files into AI datasets in seconds.
+- Technologies: **Python, Node.js, NLP libraries, RESTful endpoints, React 18, Tailwind CSS**
+- GitHub: [Smart Data Processor Repository](https://github.com/manojmadduri/smart-data-processor-local)
+
 ### 💹 Stock & Crypto Discord Bot
 - A real-time financial assistant bot providing live stock and cryptocurrency tracking.
 - Technologies: **Node.js, Discord.js, MongoDB, API Integrations**
