@@ -49,6 +49,7 @@ I'm an experienced Full-Stack Developer now transitioning to the field of Artifi
 - Turn your text files into AI datasets in seconds.
 - Technologies: **Python, Node.js, NLP libraries, RESTful endpoints, React 18, Tailwind CSS**
 - GitHub: [Smart Data Processor Repository](https://github.com/manojmadduri/smart-data-processor-local)
+- Live: [Smart Data Processor](https://smart-data-processor.vercel.app/)
 
 ### 💹 Stock & Crypto Discord Bot
 - A real-time financial assistant bot providing live stock and cryptocurrency tracking.
