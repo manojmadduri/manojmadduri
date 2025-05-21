@@ -17,9 +17,6 @@ I'm an experienced Full-Stack Developer now transitioning to the field of Artifi
 ---
 
 ## 🚀 What I'm Currently Working On
-- **AI Memory Clone:** A personal AI assistant with semantic memory recall, image recognition, and natural language processing, built with Python, React, SQLite, and CLIP.
-- **Stock & Crypto Discord Bot:** A real-time financial assistant bot using Node.js, Discord.js, MongoDB, and API integrations.
-- **Real-Time Financial Data Streaming Platform:** Leveraging Apache Kafka and Spring Boot to process high-volume data streams.
 - **Generative AI Exploration:** Experimenting with NLP and Computer Vision techniques using SentenceTransformer, CLIP, and fine-tuned models.
 
 ---
